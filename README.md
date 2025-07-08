@@ -18,3 +18,4 @@ The Viola–Jones algorithm is a robust, real-time object detection technique th
 
 Haar-like features for capturing facial patterns
 Integral Image for rapid feature computation
+AdaBoost for selecting the most relevant features
