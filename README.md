@@ -39,6 +39,10 @@ Two separate implementations:
 🎥 face_detection_video.py → Detects faces in live webcam/video feed
 
 
+Real-time detection with bounding box annotations
+
+Adjustable detection parameters like scaleFactor and minNeighbors
+
 
 📂 Features Implemented
 
