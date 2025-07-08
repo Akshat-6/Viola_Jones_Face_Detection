@@ -131,3 +131,5 @@ Can produce false positives in crowded backgrounds
 💡 Future Enhancements
 
 Add support for smile and eye detection
+
+Save output frames with timestamp
