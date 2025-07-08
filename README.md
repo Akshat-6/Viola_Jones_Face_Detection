@@ -33,6 +33,13 @@ Cascade Classifier for fast and efficient multi-stage detection
 
 Two separate implementations:
 
+
+📸 face_detection_image.py → Detects faces in static images
+
+🎥 face_detection_video.py → Detects faces in live webcam/video feed
+
+
+
 📂 Features Implemented
 
 ✅ Face Detection in:
