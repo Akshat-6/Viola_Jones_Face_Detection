@@ -121,4 +121,4 @@ FaceNet or Mediapipe for landmarks and pose estimation
 📌 Limitations
 
 
-
+Works best on frontal faces
