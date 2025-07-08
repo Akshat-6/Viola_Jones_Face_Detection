@@ -45,5 +45,14 @@ Draws bounding boxes around detected faces
 Adjustable scale factor and minNeighbors for fine-tuning detection sensitivity
 
 
+📁 Dataset / Classifier
+
+Uses OpenCV pre-trained Haar cascade:
+
+haarcascade_frontalface_default.xml
+
+
+
+
 
 
