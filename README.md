@@ -122,3 +122,8 @@ FaceNet or Mediapipe for landmarks and pose estimation
 
 
 Works best on frontal faces
+
+
+Sensitive to lighting and rotation
+
+
