@@ -94,6 +94,9 @@ Detected faces highlighted with rectangles in real-time.
 Detection remains robust across varying lighting and orientations (frontal).
 
 
+Works well under various lighting (for frontal faces)
+
+
 🔬 Additional Notes
 
 While Viola–Jones is fast, it struggles with:
