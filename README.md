@@ -96,6 +96,6 @@ Detection remains robust across varying lighting and orientations (frontal).
 
 🔬 Additional Notes
 
-
+While Viola–Jones is fast, it struggles with:
 
 
