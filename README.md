@@ -135,3 +135,5 @@ Add support for smile and eye detection
 Save output frames with timestamp
 
 Add GUI toggle buttons (start/stop/save)
+
+Compare with DNN-based face detectors (e.g., SSD, YOLO, MTCNN)
