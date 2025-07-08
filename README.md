@@ -42,4 +42,8 @@ Live webcam feed
 
 Draws bounding boxes around detected faces
 
+Adjustable scale factor and minNeighbors for fine-tuning detection sensitivity
+
+
+
 
