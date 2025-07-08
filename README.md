@@ -13,3 +13,5 @@ This project demonstrates real-time face detection using the Viola–Jones algor
 To apply the Viola–Jones object detection framework to detect human faces from static images and real-time webcam input using OpenCV’s built-in Haar cascades.
 
 🛠️ What is Viola–Jones?
+
+The Viola–Jones algorithm is a robust, real-time object detection technique that combines:
