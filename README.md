@@ -33,3 +33,5 @@ Cascade Classifier for fast and efficient multi-stage detection
 
 ✅ Face Detection in:
 
+Static images
+
