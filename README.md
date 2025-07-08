@@ -60,3 +60,17 @@ haarcascade_eye.xml
 haarcascade_smile.xml
 
 
+💻 Technologies Used
+
+Python
+
+OpenCV
+
+NumPy
+
+Webcam (for real-time input)
+
+
+
+
+
