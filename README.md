@@ -116,3 +116,9 @@ DNN-based face detection (e.g., SSD, MTCNN)
 
 FaceNet or Mediapipe for landmarks and pose estimation
 
+
+
+📌 Limitations
+
+
+
