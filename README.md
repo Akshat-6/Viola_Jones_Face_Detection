@@ -127,3 +127,7 @@ Sensitive to lighting and rotation
 
 Can produce false positives in crowded backgrounds
 
+
+💡 Future Enhancements
+
+Add support for smile and eye detection
