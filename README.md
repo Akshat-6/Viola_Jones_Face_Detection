@@ -27,4 +27,9 @@ Cascade Classifier for fast and efficient multi-stage detection
 ✅ It’s fast, lightweight, and works even on low-compute devices.
 
 
+
+
 📂 Features Implemented
+
+✅ Face Detection in:
+
