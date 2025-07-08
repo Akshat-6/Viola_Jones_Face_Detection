@@ -94,5 +94,8 @@ Detected faces highlighted with rectangles in real-time.
 Detection remains robust across varying lighting and orientations (frontal).
 
 
+🔬 Additional Notes
+
+
 
 
