@@ -88,6 +88,8 @@ Webcam (for real-time input)
 
 📈 Sample Output
 
+Detected faces highlighted with rectangles in real-time.
+
 
 
 
