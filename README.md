@@ -53,6 +53,10 @@ haarcascade_frontalface_default.xml
 
 
 
+Optional: Eye/Smile detection using:
 
+haarcascade_eye.xml
+
+haarcascade_smile.xml
 
 
