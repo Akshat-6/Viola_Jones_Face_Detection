@@ -40,4 +40,6 @@ Live webcam feed
 
 ✅ Controls and Features:
 
+Draws bounding boxes around detected faces
+
 
