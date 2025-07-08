@@ -105,3 +105,7 @@ Poor lighting
 Overlapping faces
 
 
+
+For modern applications, consider:
+
+
