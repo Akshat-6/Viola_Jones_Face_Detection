@@ -133,3 +133,5 @@ Can produce false positives in crowded backgrounds
 Add support for smile and eye detection
 
 Save output frames with timestamp
+
+Add GUI toggle buttons (start/stop/save)
