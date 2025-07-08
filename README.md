@@ -29,6 +29,8 @@ Cascade Classifier for fast and efficient multi-stage detection
 
 
 
+✅ Key Features
+
 📂 Features Implemented
 
 ✅ Face Detection in:
