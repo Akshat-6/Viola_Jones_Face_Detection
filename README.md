@@ -35,3 +35,4 @@ Cascade Classifier for fast and efficient multi-stage detection
 
 Static images
 
+Live webcam feed
