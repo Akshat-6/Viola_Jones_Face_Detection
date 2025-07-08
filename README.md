@@ -98,4 +98,10 @@ Detection remains robust across varying lighting and orientations (frontal).
 
 While Viola–Jones is fast, it struggles with:
 
+Non-frontal or profile faces
+
+Poor lighting
+
+Overlapping faces
+
 
