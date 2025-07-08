@@ -15,3 +15,6 @@ To apply the Viola–Jones object detection framework to detect human faces from
 🛠️ What is Viola–Jones?
 
 The Viola–Jones algorithm is a robust, real-time object detection technique that combines:
+
+Haar-like features for capturing facial patterns
+
